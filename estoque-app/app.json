@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Controle de Estoque",
+    "slug": "estoque-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#1E293B"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.estoqueapp.crud",
+      "adaptiveIcon": {
+        "backgroundColor": "#1E293B"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
