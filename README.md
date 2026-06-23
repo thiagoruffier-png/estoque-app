@@ -17,6 +17,7 @@ Se deixarmos vazio, o efeito fica preso ao estado inicial.
 
 
 Controle de Estoque
+
 Feito em React Native  para gerenciar o estoque de produtos. Dá pra cadastrar um item ver a lista de tudo que tá cadastrado e remover o que não precisa mais.
 Como rodar
 Abrir o vs code na pasta, abrir o terminal e executar os seguintes comandos:
